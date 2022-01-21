@@ -22,7 +22,7 @@
 .logo {
   height: 32px;
   width: 183px;
-  z-index: 1;
+  z-index: 2;
 }
 
 .logo_place_header {
@@ -38,7 +38,7 @@
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
-  z-index: 1;
+  z-index: 2;
 }
 
 .header__subtitle {
@@ -46,7 +46,7 @@
   position: absolute;
   bottom: 30px;
   left: 64px;
-  z-index: 1;
+  z-index: 2;
   line-height: 25px;
   font-size: 18px;
 }
@@ -59,8 +59,8 @@
   width: 756px;
   height: 608px;
   position: absolute;
-  right: 0;
   z-index: 1;
+  right: 0;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
