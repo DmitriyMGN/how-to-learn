@@ -283,19 +283,19 @@ margin-bottom: 30px;
 }
 
 .footer { 
-  background-color: #1f1f1f; 
-  color: white; 
-  min-height: 350px; 
+  background-color: #1f1f1f;
+  color: white;
+  min-height: 350px;
   display: flex;
-  padding: 60px 0 40px; 
+  padding: 60px 0 40px;
   box-sizing: border-box;
 } 
 
 .footer__columns { 
-  width: 90%; 
-  display: flex;  
+  width: 90%;
+  display: flex;
   margin: 0 auto;
-  justify-content: space-between; 
+  justify-content: space-between;
 } 
 
 .footer__copyright {
