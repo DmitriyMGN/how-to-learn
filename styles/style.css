@@ -298,10 +298,13 @@ margin-bottom: 30px;
   justify-content: space-between;
 } 
 
-.footer__copyright {
+.footer__column {
+  flex-direction: column;
+}
+
+.footer__column_content_copyright {
   flex-basis: 711px;
   display: flex;
-  flex-direction: column;
   justify-content: space-between;
 }
 
