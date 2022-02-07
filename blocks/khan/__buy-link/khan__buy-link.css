@@ -9,7 +9,7 @@
 }
 
 .khan__buy-link:hover {
-  opacity: 0.3;
+  opacity: 0.7;
   transition-property: opacity;
   transition-duration: 0.3s;
   transition-timing-function: ease;
